@@ -3,7 +3,7 @@ package com.company;
 public class Basicexercise {
     public static void main(String[] args) {
         System.out.println("Hello");
-        System.out.println("Pratibha Rani");
+        System.out.println("Pratibha Rani yes");
 
         int a;
         int b;
